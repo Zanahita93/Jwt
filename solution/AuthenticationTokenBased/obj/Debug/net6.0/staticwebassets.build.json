@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "85P0XNPv1a/Ziu/Rmwg9y5NcXZM46fy6d3NzvQj4UU0=",
+  "Source": "JwtTokenGenerationAPI",
+  "BasePath": "_content/JwtTokenGenerationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
